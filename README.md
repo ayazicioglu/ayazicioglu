@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 
 
-<h2 align="center"> Automation Software Test Engineer from Turkey</h2>
+<h2 align="center"> Automation Software Test Engineer Candidate from Turkey</h2>
 
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
@@ -71,4 +71,4 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+

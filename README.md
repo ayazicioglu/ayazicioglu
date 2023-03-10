@@ -10,12 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
  
-   -📫 How to reach me **aahmetyazicioglu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 
 
-<h3> Tech I Can Use:</h3>
+<h3 align="center"> Tech I Can Use:</h3>
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">][selenium]

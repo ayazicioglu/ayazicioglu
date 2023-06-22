@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center"> QA Test Automation Engineer from Turkey</h2>
 
 
-![berkansonmezay snake gif](https://github.com/berkansonmezay/berkansonmezay/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ayazicioglu/ayazicioglu/blob/output/github-contribution-grid-snake.gif)
  
 
 

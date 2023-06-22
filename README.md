@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center"> QA Test Automation Engineer from Turkey</h2>
 
 
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+![berkansonmezay snake gif](https://github.com/berkansonmezay/berkansonmezay/blob/output/github-contribution-grid-snake.svg)
  
 
 
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 [testng]: https://testng.org/doc/
 
 
-<h3> Tools I Use:</h3>
+<h3  align="center"> Tools I Use:</h3>
 
 [<a href="https://www.jetbrains.com/idea/features/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="40"/> </a>][intellij]
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
@@ -52,11 +52,10 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://github.com/ayazicioglu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayazicioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayazicioglu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayazicioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayazicioglu&layout=compact&langs_count=8&theme=algolia"/>
 
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayazicioglu&&style=flat-square" align="center" />
+
 </div> 
  
  
@@ -64,8 +63,4 @@ You can click the Preview link to take a look at your changes.
  </a>
 </p>
 
-- 👋 Hi, I’m @ayazicioglu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 

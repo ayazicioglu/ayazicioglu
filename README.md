@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 [<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-[<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cypress_Software.png">](https://upload.wikimedia.org/wikipedia/commons/b/bb/Cypress_Software.png)
+[<img height="40" width="40" src="https://github.com/ayazicioglu/cypressFramework/blob/main/Cypress_Logomark_Dark-Color.png">](https://github.com/ayazicioglu/cypressFramework/blob/main/Cypress_Logomark_Dark-Color.png)
 
 
 [vscode]: https://code.visualstudio.com/

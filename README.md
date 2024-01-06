@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 [github]: https://github.com/ayaziciogluhttps://github.com/ayazicioglu/ayazicioglu/blob/main/README.md
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
+[pyCharm]: https://www.jetbrains.com/pycharm/
 [testng]: https://testng.org/doc/
 
 
@@ -47,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
 [<img height="40" width="40" src="https://github.com/ayazicioglu/AppiumCucumber/blob/main/appium-logo.png">](https://github.com/ayazicioglu/AppiumCucumber/blob/main/appium-logo.png)
 [<img height="40" width="40" src="https://jmeter.apache.org/images/jmeter_square.svg">](https://jmeter.apache.org/images/jmeter_square.svg)
-
+[<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">][pyCharm]
 
 
 ### &nbsp;GitHub Analytics

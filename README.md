@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [pyCharm]: https://www.jetbrains.com/pycharm/
-[testng]: https://testng.org/doc/
+[testng]: https://testng.org
 
 
 <h3  align="center"> Tools I Use:</h3>

@@ -4,7 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 
-
 <h2 align="center"> Software Test Engineer from Turkey</h2>
 
 

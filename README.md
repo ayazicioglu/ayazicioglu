@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 [testng]: https://testng.org
 [unsloth]: https://unsloth.ai/
 [huggingFace]: https://huggingface.co/ayazicioglu
+[lmstudio]: https://lmstudio.ai/
 
 <h3  align="center"> Tools I Use:</h3>
 
@@ -50,6 +51,7 @@ You can click the Preview link to take a look at your changes.
 [<img height="40" width="40" src="https://github.com/ayazicioglu/AppiumCucumber/blob/main/appium-logo.png">](https://github.com/ayazicioglu/AppiumCucumber/blob/main/appium-logo.png)
 [<img height="40" width="40" src="https://jmeter.apache.org/images/jmeter_square.svg">](https://jmeter.apache.org/images/jmeter_square.svg)
 [<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">][pyCharm]
+[<img height="40" width="40" src="https://uspto.report/TM/98158751/mark.png">][lmstudio]
 
 
 ### &nbsp;GitHub Analytics

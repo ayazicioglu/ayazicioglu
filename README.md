@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 [<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 [<img height="40" width="40" src="https://github.com/ayazicioglu/cypressFramework/blob/main/Cypress_Logomark_Dark-Color.png">](https://github.com/ayazicioglu/cypressFramework/blob/main/Cypress_Logomark_Dark-Color.png)
 [<img height="40" width="100" src="https://raw.githubusercontent.com/unslothai/unsloth/refs/heads/main/images/unsloth%20logo%20only.png">][unsloth]
-
+[<img height="40" width="40" src="https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1748962423&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODk2MjQyM319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=qeauc8fx6uP233NlgQbOYyB61jE0puUgl8%7E5ckeKrNf9Lt-3nIB43TDv%7EX6lAYaJDszLoemlor3T55Y6zpVB3siyxq3uh6k9Lg8Lly4Clg4PwfLml6ha3e0c%7EJuZ14Q1B0yH8JXzSw2zaMrfZ7Ojk85tgTkUL2ILWqbSMmh5MfdZfwACM58EsvyfQAaUWQmosJoY8%7EIgqDoTuXuoYSBMzi-C77LspQQx47TSgAvZcsZaVqdaocHRlUqjoM8tP1veStZ-hvJAPIBToGzmeS2%7EyZZ3L0RAt9UMD9HDv%7EOHk13JALiR1tUoFk0%7EU7CKVCUi2mpG0bxDwXhdtLJSEiJ7bg__&Key-Pair-Id=K3RPWS32NSSJCE">][huggingFace]
 
 
 [vscode]: https://code.visualstudio.com/
@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 [pyCharm]: https://www.jetbrains.com/pycharm/
 [testng]: https://testng.org
 [unsloth]: https://unsloth.ai/
+[huggingFace]: https://huggingface.co/ayazicioglu
 
 <h3  align="center"> Tools I Use:</h3>
 

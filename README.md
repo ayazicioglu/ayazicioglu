@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"> Tech I Can Use:</h3>
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
+[<img height="40" width="100" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">][python]
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">][selenium]
 [<a href="https://testng.org" target="_blank"><img src="https://github.com/ayazicioglu/ayazicioglu/blob/main/.github/workflows/TestNG-e1483024713865.png" alt="testng" width="40" height="40" /></a>][testng]
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
@@ -28,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
+[python]: https://www.python.org/
 [selenium]: https://www.selenium.dev/
 [mysql]: [https://www.postgresql.org/](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
 [sql]: https://www.w3schools.com/sql/

@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 [<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 [<img height="40" width="40" src="https://github.com/ayazicioglu/cypressFramework/blob/main/Cypress_Logomark_Dark-Color.png">](https://github.com/ayazicioglu/cypressFramework/blob/main/Cypress_Logomark_Dark-Color.png)
 [<img height="40" width="100" src="https://raw.githubusercontent.com/unslothai/unsloth/refs/heads/main/images/unsloth%20logo%20only.png">][unsloth]
-[<img height="50" width="100" src="https://github.com/ayazicioglu/IBM_M4/blob/main/hf-logo-with-title.svg">][huggingFace]
+[<img height="40" width="100" src="https://github.com/ayazicioglu/IBM_M4/blob/main/hf-logo-with-title.svg">][huggingFace]
 
 
 [vscode]: https://code.visualstudio.com/

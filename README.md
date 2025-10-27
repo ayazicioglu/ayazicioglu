@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ayazicioglu">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayazicioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayazicioglu&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ayazicioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+  
 
 
 </div> 

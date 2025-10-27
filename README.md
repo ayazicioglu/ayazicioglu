@@ -3,6 +3,7 @@ ayazicioglu/ayazicioglu is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 🎩, I'm Ahmet</h1>
+<h2 align="center">Hi 🎩, Currently exploring applications of LLM technologies in environmental engineering challenges.</h2>
 
 
 

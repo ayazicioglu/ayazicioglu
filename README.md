@@ -54,7 +54,10 @@ You can click the Preview link to take a look at your changes.
 [<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">][pyCharm]
 [<img height="40" width="100" src="https://uspto.report/TM/98158751/mark.png">][lmstudio]
 
-<h3 align="center"> GitHub Analytics</h3>
+
+
+<p align="center">
+### &nbsp;GitHub Analytics
 <a href="https://github.com/ayazicioglu">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayazicioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayazicioglu&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>

@@ -55,9 +55,8 @@ You can click the Preview link to take a look at your changes.
 [<img height="40" width="100" src="https://uspto.report/TM/98158751/mark.png">][lmstudio]
 
 
-
-<p align="center">
 ### &nbsp;GitHub Analytics
+<p align="center">
 <a href="https://github.com/ayazicioglu">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayazicioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayazicioglu&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>

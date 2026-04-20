@@ -19,17 +19,16 @@ You can click the Preview link to take a look at your changes.
   <a href="https://unsloth.ai/" target="_blank"><img height="40" width="40" src="https://raw.githubusercontent.com/unslothai/unsloth/refs/heads/main/images/unsloth%20logo%20only.png" alt="Unsloth"/></a>
   <a href="https://huggingface.co/ayazicioglu" target="_blank"><img height="40" width="40" src="https://github.com/ayazicioglu/IBM_M4/blob/main/hf-logo-with-title.svg" alt="Hugging Face"/></a>
 </p>
-
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
 [python]: https://www.python.org/
 [selenium]: https://www.selenium.dev/
-[mysql]: [https://www.postgresql.org/](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
+[mysql]: https://www.mysql.com/
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
-[github]: https://github.com/ayaziciogluhttps://github.com/ayazicioglu/ayazicioglu/blob/main/README.md
+[github]: https://github.com/ayazicioglu
 [cucumber]: https://cucumber.io/
-[intellij]: https://www.jetbrains.com/idea/download/#section=windows
+[intellij]: https://www.jetbrains.com/idea/
 [pyCharm]: https://www.jetbrains.com/pycharm/
 [testng]: https://testng.org
 [unsloth]: https://unsloth.ai/

@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ahmet Yazıcıoğlu</h1>
 
-<h3 align="center">Test Automation Engineer | LLM Enthusiast</h3>
+<h3 align="center">Test Automation Engineer | LLM Researcher</h3>
 
 <p align="center">
   <em>Currently exploring applications of LLM technologies in environmental engineering challenges</em>

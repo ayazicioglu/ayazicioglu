@@ -13,7 +13,7 @@
 - 🔭 Working on **Test Automation Frameworks** (Selenium, Cypress, Appium)
 - 🤖 Exploring **Large Language Models** and fine-tuning techniques
 - 🌱 Learning **Generative AI** applications
-- 💡 Passionate about combining **QA Engineering** with **AI/ML**
+- 💡 Passionate about combining **Wet Lab Studies** with **AI/ML**
 
 ---
 

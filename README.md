@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <em>💡 "Testing is not about finding bugs, it's about preventing them"</em>
+  <em>💡 "You cannot manage what you do not measure"</em>
 </p>

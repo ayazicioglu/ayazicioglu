@@ -49,9 +49,11 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayazicioglu&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayazicioglu&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayazicioglu&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayazicioglu&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayazicioglu&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayazicioglu&theme=tokyonight"/>
+</p>
 
 ### 🔗 Connect with Me
 

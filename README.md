@@ -67,7 +67,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <em>💡 "You cannot manage what you do not measure"</em>
-</p>

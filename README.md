@@ -49,7 +49,9 @@
 
 ### 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayazicioglu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayazicioglu&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayazicioglu&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayazicioglu&theme=tokyonight)
 
 ### 🔗 Connect with Me
 

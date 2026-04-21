@@ -49,6 +49,7 @@
 
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayazicioglu&theme=tokyonight)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayazicioglu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔗 Connect with Me
 
